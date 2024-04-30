@@ -1,0 +1,5 @@
+[Z/Q/S/D] pour les déplacements
+[R] pour activer le mode construction, [R] encore pour le désactiver (fonctionne qu'une fois, c'est un bug que je viens de voir)
+Une fois en mode construction, [clique droit] pour poser une tourelle
+On peut rotate les tourelles grâce à la [molette de la souris] lorsqu'elles sont en preview, mais seulement à 180° (à fix aussi) 
+[Espace] pour sauter
